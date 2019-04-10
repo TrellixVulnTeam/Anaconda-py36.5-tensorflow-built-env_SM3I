@@ -1,0 +1,19 @@
+==> 2019-04-10 23:32:23 <==
+# cmd: t:\Developer\Anaconda3\Scripts\conda-script.py create --yes --json --prefix t:\Developer\Anaconda3\envs\TensorflowPy36 python=3.6
+# conda version: 4.6.11
++defaults::certifi-2019.3.9-py36_0
++defaults::pip-19.0.3-py36_0
++defaults::python-3.6.8-h9f7ef89_7
++defaults::setuptools-40.8.0-py36_0
++defaults::sqlite-3.27.2-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_0
++defaults::wheel-0.33.1-py36_0
++defaults::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['python=3.6']
+==> 2019-04-10 23:33:35 <==
+# cmd: t:\Developer\Anaconda3\Scripts\conda-script.py install python=3.6.5
+# conda version: 4.6.11
+-defaults::python-3.6.8-h9f7ef89_7
++defaults::python-3.6.5-h0c2934d_0
+# update specs: ['python=3.6.5']
